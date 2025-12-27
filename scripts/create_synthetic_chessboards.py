@@ -217,9 +217,9 @@ def process_image(coco_data: Dict, image_info: Dict, images_dir: str, output_dir
 
 def main():
     # Paths
-    coco_json_path = r"C:\MLWorkspace\project\data\synthetic_data\instances_default.json"
-    images_dir = r"C:\MLWorkspace\project\data\synthetic_data"
-    output_dir = r"C:\MLWorkspace\project\data\synthetic_data\synthetic_output"
+    coco_json_path = r"c:\Users\tomde\OneDrive\Documentatie - professioneel - opleiding\AI pro 2025-26\Project\project_chess\data\synthetic_data\instances_default_corrected.json"
+    images_dir = r"c:\Users\tomde\OneDrive\Documentatie - professioneel - opleiding\AI pro 2025-26\Project\project_chess\data\synthetic_data"
+    output_dir = r"c:\Users\tomde\OneDrive\Documentatie - professioneel - opleiding\AI pro 2025-26\Project\project_chess\data\synthetic_data\synthetic_output"
     
     # Create output directory
     os.makedirs(output_dir, exist_ok=True)

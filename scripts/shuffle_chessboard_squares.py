@@ -276,9 +276,9 @@ def main(num_shuffles: int = 5):
     Args:
         num_shuffles: Number of shuffled versions to create per input image (default: 5)
     """
-    coco_json_path = r"C:\MLWorkspace\project\data\synthetic_data\instances_default.json"
-    images_dir = r"C:\MLWorkspace\project\data\synthetic_data"
-    output_dir = r"C:\MLWorkspace\project\data\synthetic_data\shuffled_output"
+    coco_json_path = r"c:\Users\tomde\OneDrive\Documentatie - professioneel - opleiding\AI pro 2025-26\Project\project_chess\data\synthetic_data\instances_default_corrected.json"
+    images_dir = r"c:\Users\tomde\OneDrive\Documentatie - professioneel - opleiding\AI pro 2025-26\Project\project_chess\data\synthetic_data"
+    output_dir = r"c:\Users\tomde\OneDrive\Documentatie - professioneel - opleiding\AI pro 2025-26\Project\project_chess\data\synthetic_data\shuffled_output"
     
     os.makedirs(output_dir, exist_ok=True)
     

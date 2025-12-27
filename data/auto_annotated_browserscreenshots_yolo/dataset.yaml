@@ -1,4 +1,4 @@
-path: /workspace/data/auto_annotated_browserscreenshots_yolo
+path: C:\Users\tomde\OneDrive\Documentatie - professioneel - opleiding\AI pro 2025-26\Project\project_chess\data\auto_annotated_browserscreenshots_yolo
 train: train
 val: train
 nc: 13

@@ -1,4 +1,4 @@
-path: /workspace/data/synthetic_data/yolo
+path: c:\Users\tomde\OneDrive\Documentatie - professioneel - opleiding\AI pro 2025-26\Project\project_chess\data\synthetic_data\yolo
 train: train
 val: train
 nc: 13
