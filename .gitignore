@@ -1,8 +1,11 @@
+/Game/
 Game/
 *.pgn
 /docker
 /lichess_dataset
 /output
+project/
+/project/
 /app
 yolo11n.pt
 yolov8m.pt
